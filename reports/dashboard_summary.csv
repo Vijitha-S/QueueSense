@@ -1,0 +1,41 @@
+category,priority,status,ticket_count,avg_resolution_hours,within_sla_count
+Account Update,Critical,Open,3,,0
+Account Update,Critical,Resolved,39,2.5310256410256406,32
+Account Update,High,Open,23,,0
+Account Update,High,Resolved,151,6.8340397350993385,109
+Account Update,Low,Open,23,,0
+Account Update,Low,Resolved,192,20.524114583333333,188
+Account Update,Medium,Open,28,,0
+Account Update,Medium,Resolved,288,12.409166666666668,245
+Login & Access,Critical,Open,4,,0
+Login & Access,Critical,Resolved,83,2.9414457831325302,57
+Login & Access,High,Open,38,,0
+Login & Access,High,Resolved,258,7.145813953488371,167
+Login & Access,Low,Open,51,,0
+Login & Access,Low,Resolved,334,24.375928143712574,315
+Login & Access,Medium,Open,66,,0
+Login & Access,Medium,Resolved,454,14.003502202643173,372
+Other,Critical,Open,5,,0
+Other,Critical,Resolved,52,3.873653846153846,34
+Other,High,Open,13,,0
+Other,High,Resolved,139,10.079136690647482,74
+Other,Low,Open,38,,0
+Other,Low,Resolved,207,28.953478260869566,193
+Other,Medium,Open,37,,0
+Other,Medium,Resolved,236,17.94639830508475,172
+Payment,Critical,Open,8,,0
+Payment,Critical,Resolved,69,6.19072463768116,30
+Payment,High,Open,20,,0
+Payment,High,Resolved,189,12.703439153439152,85
+Payment,Low,Open,32,,0
+Payment,Low,Resolved,255,43.158235294117645,205
+Payment,Medium,Open,41,,0
+Payment,Medium,Resolved,381,23.366404199475067,245
+Technical Error,Critical,Open,4,,0
+Technical Error,Critical,Resolved,86,6.265232558139534,42
+Technical Error,High,Open,31,,0
+Technical Error,High,Resolved,257,12.593151750972764,129
+Technical Error,Low,Open,65,,0
+Technical Error,Low,Resolved,310,45.414903225806455,245
+Technical Error,Medium,Open,49,,0
+Technical Error,Medium,Resolved,441,28.332244897959185,259
